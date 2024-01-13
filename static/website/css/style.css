@@ -1,0 +1,13 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+.nav-item {
+    font-size: 1.5rem;
+}
+.bg-yonna {
+    background-color: #6f42c1;
+}
+.nav-link {
+    color: white !important;
+    margin: 0.8rem;
+}
